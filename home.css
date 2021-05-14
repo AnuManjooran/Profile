@@ -166,7 +166,12 @@ section{
       height: 67px;
     }
     #about{
-        background: lightskyblue;
+        background-image:
+    radial-gradient(
+      circle at top left,
+      #f1f1f1,
+      #15616d 50%
+    );
     }
     .home{
       padding-right: 87px;
@@ -194,7 +199,12 @@ section{
         text-align: justify;
     }
     #education{
-        background: bisque!important;
+        background-image:
+    radial-gradient(
+      
+      #f1f1f1,
+      #15616d 
+    );
         width: 100%
     }
     .education .inner div, .skills .inner div{
@@ -207,7 +217,12 @@ section{
         padding-top: 100px;
     }
     #about{
-        background: khaki!important;
+        background: background-image:
+    radial-gradient(
+      circle at top left,
+      #f1f1f1,
+      #15616d 50%
+    );
     }
     .about .inner{
         width: 90%;
@@ -218,7 +233,12 @@ section{
         text-align: justify;
     }
     #education{
-        background-color: bisque!important;
+        background-image:
+    radial-gradient(
+      
+      #f1f1f1,
+      #15616d 
+    );
     }
     
     .education .inner div, .skills .inner div{
